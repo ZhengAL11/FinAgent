@@ -30,7 +30,7 @@ Web 应用: FastAPI / Streamlit (可扩展为前端交互)
 
 🛠️ 快速开始
 1. 克隆仓库
-git clone https://github.com/你的用户名/finagent.git
+git clone https://github.com/ZhengAL11/FinAgent.git
 cd finagent
 
 2. 安装依赖
