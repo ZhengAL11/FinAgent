@@ -28,12 +28,7 @@ Web 应用: FastAPI / Streamlit (可扩展为前端交互)
 
 💡 企业级扩展：可集成行情 API、数据库等外部工具
 
-🛠️ 快速开始
-1. 克隆仓库
-git clone https://github.com/ZhengAL11/FinAgent.git
-cd finagent
-
-2. 安装依赖
+安装依赖
 pip install -r requirements.txt
 
 3. 配置环境变量
